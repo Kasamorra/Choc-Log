@@ -1,4 +1,6 @@
 # Choc-Log
 Arduino Project: Temperature Logger to keep chocolate from melting </br>
 </br>
-CODE TO BE UPLOADED SOON
+STATUS: </br>
+Fuctioning code for the basic version of Choc Log </br>
+Currently working on adding settings
